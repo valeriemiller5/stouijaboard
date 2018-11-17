@@ -49,7 +49,6 @@ $(document).ready(function () {
         //     .then(function (resp) {
                 // console.log(resp);
                 window.location = url;
-                console.log("wtf is wrong")
             // })
     })
 })
